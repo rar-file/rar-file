@@ -1,29 +1,16 @@
+# rar-file
 
-Hi, I'm rar-file 👋
+Welcome to my GitHub! I build tools and contribute to open source, especially [Phoney](https://github.com/rar-file/phoney) — a Python library for generating fake personal data for testing and automation.
 
-![Profile Avatar](https://avatars.githubusercontent.com/u/112033646?v=4)
+## 🚀 Highlights
+- **Phoney:** Generate realistic fake data for your projects. [Check it out!](https://github.com/rar-file/phoney)
+- **Contributions:** I focus on making useful things for the community. Pull requests and issues are always welcome!
 
-## � About Me
-I'm a passionate developer who loves building creative solutions and experimenting with new technologies. I enjoy working on Python projects and making tools that help others.
+## 📊 Metrics & Activity
+![Metrics](github-metrics.svg)
 
-## �️ Skills & Technologies
-- Python (check out my library: [Phoney](https://github.com/rar-file/phoney))
-- Data generation & automation
-- Scripting & utilities
-- Open source collaboration
+> Automated by [metrics.yml](.github/workflows/metrics.yml) and [snake.yml](.github/workflows/snake.yml) for live stats and contribution snake animation.
 
-## 📌 Pinned Project
-### [Phoney](https://github.com/rar-file/phoney)
-A Python library for generating realistic fake personal data—names, phone numbers, emails, ages, birthdates, and full profiles for many locales. Easy to use, fast, and perfect for testing.
-
-## 🌐 Connect with Me
-- GitHub: [rar-file](https://github.com/rar-file)
-- Email: (add your email or preferred contact here)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rar-file&show_icons=true&theme=dark)
-
-## ✨ Fun Facts
-- I love automating boring tasks.
-- Always learning something new.
-- Open to collaboration and new ideas!
+## 🔗 Connect
+- [GitHub](https://github.com/rar-file)
+- [Phoney](https://github.com/rar-file/phoney)
