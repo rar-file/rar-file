@@ -1,4 +1,4 @@
-# rar-file
+# .rarfile
 
 Welcome to my GitHub! I build tools and contribute to open source, especially [Phoney](https://github.com/rar-file/phoney) — a Python library for generating fake personal data for testing and automation.
 
@@ -8,8 +8,8 @@ Welcome to my GitHub! I build tools and contribute to open source, especially [P
 
 ## 📊 Metrics & Activity
 ![Metrics](github-metrics.svg)
+![Snakes](snake.svg)
 
-> Automated by [metrics.yml](.github/workflows/metrics.yml) and [snake.yml](.github/workflows/snake.yml) for live stats and contribution snake animation.
 
 ## 🔗 Connect
 - [GitHub](https://github.com/rar-file)
