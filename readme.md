@@ -15,35 +15,22 @@ I build tools and contribute to open source, especially [Phoney](https://github.
 
 ## Experience
 
-<table>
-<tr>
-<td>
-
 **Silly Developments Ltd** — Co-Owner / Security Automation Engineer
-<br><sub>2024 – Present · London, UK</sub>
+<br>`2024 – Present · London, UK`
 
 Leading infrastructure modernization and automation initiatives.
 
-- Automated abuse detection in Docker containers, reducing security incidents by **75%**
-- Reduced data loss risk by **60%** through robust backup solutions
-- Implemented custom monitoring dashboards for real-time infrastructure visibility
-- Built an observability platform processing **10TB+** of logs daily with sub-second query times
-
-</td>
-</tr>
-<tr>
-<td>
+> - Automated abuse detection in Docker containers, reducing security incidents by **75%**
+> - Reduced data loss risk by **60%** through robust backup solutions
+> - Implemented custom monitoring dashboards for real-time infrastructure visibility
+> - Built an observability platform processing **10TB+** of logs daily with sub-second query times
 
 **Assistant Teacher** — Work Experience
-<br><sub>2025</sub>
+<br>`2025`
 
-- Assisted in teaching technical basics to students
-- Developed communication and leadership skills
-- Explained complex technical concepts in a clear and accessible way
-
-</td>
-</tr>
-</table>
+> - Assisted in teaching technical basics to students
+> - Developed communication and leadership skills
+> - Explained complex technical concepts in a clear and accessible way
 
 ---
 
