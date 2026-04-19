@@ -1,44 +1,40 @@
-<div align="center">
-
-# Charlie Archer Simmons
-
-**Builder, security engineer, and open-source contributor.**
-
-I build tools and contribute to open source, especially [Phoney](https://github.com/rar-file/phoney) — a Python library for generating fake personal data for testing and automation.
-
-[![GitHub](images/icons/github.svg)](https://github.com/rar-file)
-[![Discord](images/icons/discord.svg)](https://discord.com)
-[![X](images/icons/x.svg)](https://x.com)
-[![Email](images/icons/email.svg)](mailto:)
-
-</div>
-
-## Experience
-
-**Silly Developments Ltd** — Co-Owner / Security Automation Engineer
-<br>`2024 – Present · London, UK`
-
-Leading infrastructure modernization and automation initiatives.
-
-> - Automated abuse detection in Docker containers, reducing security incidents by **75%**
-> - Reduced data loss risk by **60%** through robust backup solutions
-> - Implemented custom monitoring dashboards for real-time infrastructure visibility
-> - Built an observability platform processing **10TB+** of logs daily with sub-second query times
-
-**Assistant Teacher** — Work Experience
-<br>`2025`
-
-> - Assisted in teaching technical basics to students
-> - Developed communication and leadership skills
-> - Explained complex technical concepts in a clear and accessible way
+<h1 align="center">Charlie Archer Simmons</h1>h1>
+<p align="center">
+  Building AI tooling, agents, and automation infrastructure.<br/>
+    London, UK · <a href="https://charlie.as">charlie.as</a>a>
+</p>p>
 
 ---
 
-## Metrics & Activity
+### What I work on
 
-<div align="center">
+I build practical tools at the intersection of AI, developer experience, and security automation — self-hosted AI surfaces, memory engines for LLMs, agent frameworks, and the unglamorous infrastructure that makes them reliable.
 
-![Metrics](github-metrics.svg)
-![Snakes](https://raw.githubusercontent.com/rar-file/rar-file/output/snake.svg)
+I care a lot about getting AI systems to do useful work safely: persistent memory, auditable agent behaviour, honest evaluation, and interfaces humans actually want to use.
 
-</div>
+### Selected projects
+
+- **[Phoney](https://github.com/rar-file/phoney)** — Zero-dependency Python library for generating locale-aware fake personal data. 50+ locales, used for testing, demos, and anonymization.
+- - **[surf](https://github.com/rar-file/surf)** — Self-hosted AI chat with web UI + terminal CLI. Any model (Ollama, Anthropic, OpenAI, OpenRouter), free web search, browser agent, persistent memory.
+- - **[apeiron](https://github.com/rar-file/apeiron)** — Self-evolving multi-agent framework with a cryptographically-audited democratic memory (hash-chained writes, Memory Court, forgetting votes).
+- - **[Mini-Memori](https://github.com/rar-file/Mini-Memori)** — Lightweight, production-ready memory engine for LLM apps. Semantic recall over SQLite.
+- - **[MemLyze](https://github.com/rar-file/MemLyze)** — Python memory profiler with <5% runtime overhead.
+- - **[autonomy](https://github.com/rar-file/autonomy)** — Context-aware intelligent automation skill for the OpenClaw agent platform.
+
+- ### Currently
+
+- Co-Owner / Security Automation Engineer at **Silly Developments Ltd** — infrastructure modernization, abuse detection, and observability at scale.
+
+- ### Elsewhere
+
+- [charlie.as](https://charlie.as) · [contact](mailto:c.archer.simmons@gmail.com)
+
+- ---
+
+<p align="center">
+  <img src="https://github.com/rar-file/rar-file/blob/main/github-metrics.svg" alt="GitHub metrics" />
+</p>p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rar-file/rar-file/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" />
+</p>p>
+          
