@@ -34,6 +34,3 @@ Co-Owner / Security Automation Engineer at **Silly Developments Ltd** — infras
 <p align="center">
   <img src="https://github.com/rar-file/rar-file/blob/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
-<p align="center">
-  <img src="https://github.com/rar-file/rar-file/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" />
-</p>
