@@ -8,7 +8,7 @@
 
 ### What I work on
 
-I build practical tools at the intersection of AI, developer experience, and security automation — self-hosted AI surfaces, memory engines for LLMs, agent frameworks, and the unglamorous infrastructure that makes them reliable.
+I build practical tools at the intersection of AI, developer experience, and security automation self-hosted AI surfaces, memory engines for LLMs, agent frameworks, and the unglamorous infrastructure that makes them reliable.
 
 I care a lot about getting AI systems to do useful work safely: persistent memory, auditable agent behaviour, honest evaluation, and interfaces humans actually want to use.
 
