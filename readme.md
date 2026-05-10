@@ -42,11 +42,8 @@ Modernizing infrastructure, building abuse detection, and wiring up observabilit
 - Mentor / be mentored
 
 ---
-<div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/rar-file/svg?view=3d&sort=cost)](https://tokscale.ai/u/rar-file)
-
-<details>
 <p align="center">
   <img src="https://raw.githubusercontent.com/rar-file/rar-file/main/github-metrics.svg" alt="GitHub metrics" />
+  [![Tokscale Stats](https://tokscale.ai/api/embed/rar-file/svg?view=3d&sort=cost)](https://tokscale.ai/u/rar-file)
 </p>
