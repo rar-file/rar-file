@@ -44,6 +44,10 @@ Modernizing infrastructure, building abuse detection, and wiring up observabilit
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rar-file/rar-file/main/github-metrics.svg" alt="GitHub metrics" />
-  [![Tokscale Stats](https://tokscale.ai/api/embed/rar-file/svg?view=3d&sort=cost)](https://tokscale.ai/u/rar-file)
+  <a href="https://github.com/rar-file/rar-file">
+    <img src="https://raw.githubusercontent.com/rar-file/rar-file/main/github-metrics.svg" alt="GitHub metrics" />
+  </a>
+  <a href="https://tokscale.ai/u/rar-file">
+    <img src="https://tokscale.ai/api/embed/rar-file/svg?view=3d&sort=cost" alt="Tokscale Stats" />
+  </a>
 </p>
