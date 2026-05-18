@@ -6,36 +6,37 @@
 
 ---
 
+Building **subvocalization**: silent sEMG → speech.
+
+Field's been stuck at ~46% CER on open-vocab for a decade. Encoder-bound, not synth-bound. Session-independence unsolved. Every commercial attempt has been a pre-product acquihire. We ship.
+
+Multimodal capture: sEMG + EEG, evaluating fNIRS. Stack kept dark.
+
 #### A bit about me
 
 - UK-based, started writing code in school and never really stopped
-- Co-Owner & Security Automation Engineer at Silly Developments Ltd
+- Previously Co-Owner and Security Automation Engineer at Silly Developments Ltd (closed 2026 after 4 years)
+- Care about persistent memory, auditable agent behaviour, and honest evals and oversight
+- Free-tier maximalist: most of the stack runs on free APIs and local models
+- Refined design taste. New, out there, interesting
 - Ran a 16k-member Discord community under the SillyDev brand
-- Care about persistent memory, auditable agent behaviour, and honest evals and oversight 
-- Free-tier maximalist Groq, SQLite, and local models do most of the heavy lifting
-- Refined design taste, New, Out there, Interesting
 
 #### What I'm building
 
-- **[Phoney](https://github.com/rar-file/phoney)** — Zero-dependency Python library for locale-aware fake personal data. 50+ locales, used for testing, demos, and anonymization.
-- **[surf](https://github.com/rar-file/surf)** — Self-hosted AI chat with web UI + terminal CLI. Any model (Ollama, Anthropic, OpenAI, OpenRouter), free web search, browser agent, persistent memory.
-- **[Mini-Memori](https://github.com/rar-file/Mini-Memori)** — Lightweight, production-ready memory engine for LLM apps. Semantic recall over SQLite.
-- **[MemLyze](https://github.com/rar-file/MemLyze)** — Python memory profiler with <5% runtime overhead.
-- **[autonomy](https://github.com/rar-file/autonomy)** — Context-aware intelligent automation skill for the OpenClaw agent platform.
-- **[OllamaForge](https://github.com/rar-file/OllamaForge)** — Tooling around local Ollama model workflows.
-
-#### Currently
-
-Modernizing infrastructure, building abuse detection, and wiring up observability at scale at **Silly Developments Ltd**.
+- **[Phoney](https://github.com/rar-file/phoney)**: Zero-dependency Python library for locale-aware fake personal data. 50+ locales, used for testing, demos, and anonymization.
+- **[surf](https://github.com/rar-file/surf)**: Self-hosted AI chat with web UI + terminal CLI. Any model (Ollama, Anthropic, OpenAI, OpenRouter), free web search, browser agent, persistent memory.
+- **[Mini-Memori](https://github.com/rar-file/Mini-Memori)**: Lightweight, production-ready memory engine for LLM apps. Semantic recall over SQLite.
+- **[MemLyze](https://github.com/rar-file/MemLyze)**: Python memory profiler with <5% runtime overhead.
+- **[autonomy](https://github.com/rar-file/autonomy)**: Context-aware intelligent automation skill for the OpenClaw agent platform.
 
 #### Where to find me
 
-- [charlie.as](https://charlie.as) — site
-- [c.archer.simmons@gmail.com](mailto:c.archer.simmons@gmail.com) — email
-- SillyDev — Discord community
+- Site: [charlie.as](https://charlie.as)
+- Email: [c.archer.simmons@gmail.com](mailto:c.archer.simmons@gmail.com)
 
 #### I'd love to
 
+- Talk silent speech, EMG / EEG, or anything BCI-adjacent
 - Talk multi-agent memory and how to keep LLMs honest
 - Trade notes on self-hosted AI infrastructure
 - Hear what you're shipping
