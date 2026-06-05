@@ -1,0 +1,24 @@
+{
+  "_comment": "AI token usage for the rar.md dashboard. Update this file (locally or via a cron) and push to rar-file/rar-file. The site re-reads it via the GitHub API.",
+  "updated": "2026-05-15T14:22:00Z",
+  "period": "2026-05",
+  "totals": {
+    "tokens": 15820000,
+    "cost_usd": 100.50,
+    "calls": 23456,
+    "since": "2026-05-01"
+  },
+  "providers": [
+    { "name": "Groq",       "tokens": 8900000, "cost_usd": 0.00,  "trend_pct": 45,  "color": "#f55036" },
+    { "name": "Anthropic",  "tokens": 4500000, "cost_usd": 67.20, "trend_pct": 12,  "color": "#d97757" },
+    { "name": "OpenAI",     "tokens": 2100000, "cost_usd": 31.50, "trend_pct": -5,  "color": "#10a37f" },
+    { "name": "OpenRouter", "tokens": 320000,  "cost_usd": 1.80,  "trend_pct": 8,   "color": "#6e6eff" }
+  ],
+  "top_models": [
+    { "name": "claude-opus-4-7",   "tokens": 2800000, "calls": 1432, "provider": "Anthropic" },
+    { "name": "claude-sonnet-4-6", "tokens": 1700000, "calls": 8934, "provider": "Anthropic" },
+    { "name": "llama-3.3-70b",     "tokens": 6200000, "calls": 7211, "provider": "Groq" },
+    { "name": "qwen-2.5-72b",      "tokens": 2700000, "calls": 4023, "provider": "Groq" },
+    { "name": "gpt-4o-mini",       "tokens": 2100000, "calls": 1856, "provider": "OpenAI" }
+  ]
+}
