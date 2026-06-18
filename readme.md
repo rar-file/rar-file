@@ -45,9 +45,7 @@ Multimodal capture: sEMG + EEG, evaluating fNIRS. Stack kept dark.
 ---
 
 <p align="center">
-  <a href="https://tokscale.ai/u/rar-file">
-    <img src="https://tokscale.ai/api/embed/rar-file/svg?sort=cost" alt="Tokscale Stats" />
-  </a>
+  [![Claude Code stats](https://claude-rpc-totals.claude-rpc.workers.dev/card/<you>.svg)](https://claude-rpc.vercel.app/u/<you>)
   <br/>
   <img src="https://raw.githubusercontent.com/rar-file/rar-file/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
