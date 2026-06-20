@@ -46,7 +46,7 @@ Multimodal capture: sEMG + EEG, evaluating fNIRS. Stack kept dark.
 
 <p align="center">
     <a href="https://claude-rpc.vercel.app/u/you">
-      <img src="https://claude-rpc-totals.claude-rpc.workers.dev/card/you.svg" 
+      <img src="https://claude-rpc-totals.claude-rpc.workers.dev/card/rar-file.svg" 
   alt="Claude Code stats" />
     </a>
     <br/>
